@@ -44,6 +44,9 @@ Criar um modelo conceitual com base no enunciado acima. Informe quais são as ta
 
 Escreva uma consulta SQL para selecionar o nome do filme e sua duração, ordenados pela duração do filme, de todos os filmes cujo título termina com a palavra "Ação".
 
+- Ex 5
+  Crie um script em SQL, informando nome do país, nome do estado e nome da cidade, de todas as capitais que possuam população acima de 500 mil habitantes, cujos estados tenham nome de santo (ou seja, iniciem com São, Santo, San ou Saint) em países da América (América do Norte, América Central e América do Sul). Os resultados devem ser ordenados por nome do país, nome do estado e nome da cidade.
+
 # Tecnologias
 
 - PostgreSQL
