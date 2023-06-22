@@ -18,6 +18,7 @@ id, nome, descricao , data_inicio , data_prazo, concluida
 ## Semana 07
 
 - Exercício Proposto:
+- Ex 2 e 3
 
 Uma Startup revolucionária no mundo de jogos, CloudGames. É uma empresa que promete ter uma biblioteca de jogos independente de plataforma em que possibilitará que usuários joguem seus jogos sem necessitarem de um computador. Qualquer SmartTV que tenha o aplicativo será capaz de jogar o jogo com qualquer controle (ou até mesmo teclado e mouse).
 
@@ -32,6 +33,16 @@ A princípio, as plataformas que precisaremos lidar serão: PS1, PS2, PS3, PS4, 
 Também adicionaremos fotos e vídeos do jogo para deixar os nossos usuários empolgados para jogar.
 
 Criar um modelo conceitual com base no enunciado acima. Informe quais são as tabelas, colunas e seus respectivos tipos de dados dessa modelagem.
+
+- Ex 4
+  Considere um banco de dados de filmes com as seguintes tabelas:
+  "Ator", contendo as colunas "Id do ator", "Nome do ator", "Data de nascimento", "Altura" e "Peso";
+  "Filme", contendo as colunas "Id do filme", "Nome do filme" e "Duração do filme em minutos";
+  "Genero_Filme", contendo as colunas "Id do filme" e "Id do gênero";
+  e
+  "Genero", contendo as colunas "Id do gênero" e "Nome do gênero".
+
+Escreva uma consulta SQL para selecionar o nome do filme e sua duração, ordenados pela duração do filme, de todos os filmes cujo título termina com a palavra "Ação".
 
 # Tecnologias
 
