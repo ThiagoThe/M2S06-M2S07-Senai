@@ -53,6 +53,9 @@ id, nome, descricao , data_inicio , data_prazo, concluida
 - Ex 7
   Crie um script que ordene os usuários que mais gastaram no mês da Black Friday, independente do ano. Esse script deve conter o nome do usuário e o valor total gasto no mês da black friday
 
+- Ex 8
+  Crie um script SQL que ordene os usuários que mais gastaram em reservas de viagens no mês de julho, independente do ano. Esse script deve conter o nome do usuário e o valor total gasto nas reservas no mês de julho.
+
 # Tecnologias
 
 - PostgreSQL
