@@ -50,6 +50,9 @@ id, nome, descricao , data_inicio , data_prazo, concluida
 - Ex 6
   Considerando o script do exercício anterior Ex 5, crie um script que busque, ao invés dos 10 países que tenham mais habitantes, os países que contenham população maior que a população total da Espanha (calculada como a soma da população de todas as cidades).
 
+- Ex 7
+  Crie um script que ordene os usuários que mais gastaram no mês da Black Friday, independente do ano. Esse script deve conter o nome do usuário e o valor total gasto no mês da black friday
+
 # Tecnologias
 
 - PostgreSQL
